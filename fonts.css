@@ -1,13 +1,55 @@
 @font-face {
   font-family: "Albra Sans";
   src: url("https://static1.squarespace.com/static/5e2344950aee2d7e8a6e2510/t/65f1c14227012810ea15aa8d/1710342466699/Albra+Sans+Regular-Traced-Web.ttf") format("truetype");
-  font-weight: normal;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Albra Sans";
+  src: url("https://static1.squarespace.com/static/5e2344950aee2d7e8a6e2510/t/65f1c1456a7759054cdfb32f/1710342469243/Albra+Sans+Medium-Traced-Web.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Albra Sans";
+  src: url("https://static1.squarespace.com/static/5e2344950aee2d7e8a6e2510/t/65f1c14827012810ea15abc2/1710342472111/Albra+Sans+Bold-Traced-Web.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Albra Sans";
+  src: url("https://static1.squarespace.com/static/5e2344950aee2d7e8a6e2510/t/65f1c14b27012810ea15abd6/1710342475341/Albra+Sans+Light-Traced-Web.ttf") format("truetype");
+  font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Albra Grotesk";
   src: url("https://static1.squarespace.com/static/5e2344950aee2d7e8a6e2510/t/65f1c1346a7759054cdfb11d/1710342452574/Albra+Grotesk+Regular-Traced-Web.ttf") format("truetype");
-  font-weight: normal;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Albra Grotesk";
+  src: url("https://static1.squarespace.com/static/5e2344950aee2d7e8a6e2510/t/65f1c13827012810ea15aa42/1710342455948/Albra+Grotesk+Medium-Traced-Web.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Albra Grotesk";
+  src: url("https://static1.squarespace.com/static/5e2344950aee2d7e8a6e2510/t/65f1c13c27012810ea15aa75/1710342460352/Albra+Grotesk+Bold-Traced-Web.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Albra Grotesk";
+  src: url("https://static1.squarespace.com/static/5e2344950aee2d7e8a6e2510/t/65f1c14027012810ea15aa9a/1710342463576/Albra+Grotesk+Light-Traced-Web.ttf") format("truetype");
+  font-weight: 200;
   font-style: normal;
 }
