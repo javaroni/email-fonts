@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Albra Sans";
+  src: url("https://static1.squarespace.com/static/5e2344950aee2d7e8a6e2510/t/65f1c14227012810ea15aa8d/1710342466699/Albra+Sans+Regular-Traced-Web.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Albra Grotesk";
+  src: url("https://static1.squarespace.com/static/5e2344950aee2d7e8a6e2510/t/65f1c1346a7759054cdfb11d/1710342452574/Albra+Grotesk+Regular-Traced-Web.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
